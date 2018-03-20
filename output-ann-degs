@@ -1,0 +1,66 @@
+
+Main: reading the data
+
+Main: learning the training data
+...learning the data... 1.000000 
+...learning the data... 32769.335938 
+...learning the data... 6477.363281 
+...learning the data... 8411.908203 
+...learning the data... 9394.521484 
+...learning the data... 8097.494141 
+...learning the data... 5236.643555 
+...learning the data... 2853.243408 
+...learning the data... 1520.875732 
+...learning the data... 851.038086 
+...learning the data... 506.504517 
+...learning the data... 318.018860 
+...learning the data... 208.990173 
+...learning the data... 142.270203 
+...learning the data... 99.825500 
+...learning the data... 71.587250 
+...learning the data... 52.482391 
+...learning the data... 39.014923 
+...learning the data... 29.473633 
+...learning the data... 22.482285 
+...learning the data... 17.379852 
+...learning the data... 13.468201 
+...learning the data... 10.587502 
+...learning the data... 8.343758 
+...learning the data... 6.638290 
+...learning the data... 5.277107 
+...learning the data... 4.229507 
+...learning the data... 3.399727 
+...learning the data... 2.748608 
+...learning the data... 2.229630 
+...learning the data... 1.806557 
+...learning the data... 1.472340 
+...learning the data... 1.195713 
+...learning the data... 0.976723 
+...learning the data... 0.807274 
+...learning the data... 0.647018 
+...learning the data... 0.547943 
+...learning the data... 0.439552 
+...learning the data... 0.369320 
+...learning the data... 0.301826 
+...learning the data... 0.246845 
+...learning the data... 0.202087 
+...learning the data... 0.170303 
+...learning the data... 0.139191 
+...learning the data... 0.120823 
+...learning the data... 0.096344 
+...learning the data... 0.077789 
+...learning the data... 0.067902 
+...learning the data... 0.052677 
+...learning the data... 0.046619 
+...learning the data... 0.043327 
+...learning the data... 0.027218 
+...learning the data... 0.025887 
+...learning the data... 0.022335 
+...learning the data... 0.016308 
+...learning the data... 0.017555 
+...learning the data... 0.013920 
+...learning the data... 0.011532 
+ Training result: 256 2609 4011 : 5000
+
+Main: evaluating the test data
+ Testing result: 200 1399 2689 : 4000
